@@ -1,6 +1,12 @@
 LICENSE
 README.md
 setup.py
+File_Manipulation/Find_Files.py
+File_Manipulation/Find_FilesByContent.py
+File_Manipulation/Get_FilesCount.py
+File_Manipulation/Remove_Files.py
+File_Manipulation/Set_FilesExtension.py
+File_Manipulation/__init__.py
 File_Manipulation.egg-info/PKG-INFO
 File_Manipulation.egg-info/SOURCES.txt
 File_Manipulation.egg-info/dependency_links.txt
