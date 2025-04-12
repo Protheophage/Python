@@ -8,7 +8,7 @@ setup(
     long_description_content_type="text/markdown",
     author="Protheophage",
     author_email="protheophage@gmail.com",
-    url="https://github.com/your-repo/File_Manipulation",
+    url="https://github.com/Protheophage/Python/tree/main/FunctionsAndModules/File_Manipulation",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",

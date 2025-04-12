@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.py
+File_Manipulation.egg-info/PKG-INFO
+File_Manipulation.egg-info/SOURCES.txt
+File_Manipulation.egg-info/dependency_links.txt
+File_Manipulation.egg-info/entry_points.txt
+File_Manipulation.egg-info/top_level.txt

@@ -1,0 +1,6 @@
+[console_scripts]
+find_files = File_Manipulation.Find_Files:find_files
+find_filesbycontent = File_Manipulation.Find_FilesByContent:find_filesbycontent
+get_filescount = File_Manipulation.Get_FilesCount:get_filescount
+remove_files = File_Manipulation.Remove_Files:remove_files
+set_filesextension = File_Manipulation.Set_FilesExtension:set_filesextension
