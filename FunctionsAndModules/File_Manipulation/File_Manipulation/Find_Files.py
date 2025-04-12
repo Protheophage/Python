@@ -45,7 +45,6 @@ def find_files(files_to_find, search_all_drives=False, check_this_disk=None):
     return found_files
 
 if __name__ == "__main__":
-    # Set up argument parsing
     parser = argparse.ArgumentParser(description="Search for files on the computer based on the specified pattern.")
     parser.add_argument("-FilesToFind", required=True, help="The file name or pattern to search for (e.g., '*.txt').")
     parser.add_argument("-SearchAllDrives", action="store_true", help="Search all drives on the computer.")
